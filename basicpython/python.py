@@ -1,14 +1,3 @@
-money = 2000
-card = 1
-money = 2000
-card = 1
-if False | False:
-    print("택시를 타고가라")
-else:
-    print("걸어가라")
-
-
-
 treeHit = 0
 while treeHit <10:
     treeHit = treeHit +1
